@@ -3,46 +3,9 @@
    color3: #E26EE5;
 */
 
-html {
-    padding: 0;
-    margin: 0;
-}
 
-body {
-  padding: 0;
-  margin: 100px auto;
-  background-color: #f3f8ff;
-  font-family: "Recia", serif;
-  font-size: 1.25rem;
-}
-
-h1 {
-  font-family: "Bricolage grotesque", sans-serif;
-  color: #49108b;
-  text-align: center;
-  font-size: 4rem;
-}
-
-div.container-immagini {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    column-gap: 20px;
-    width: 100%;
-    height: auto;
-    align-items: center;
-    margin: 100px;
-}   
-
-nav a {
-  text-decoration: none;
-  color: #e26ee5;
-}
-
-nav ul {
-  list-style: none;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  column-gap: 20px;
-  text-align: center;
+img.quadrato {
+  width: 10px
+  height: 100%;
   
 }
